@@ -65,4 +65,3 @@ plt.plot(history.history['val_loss'], label='val')
 plt.title("全连接神经网络loss值图")
 plt.legend()
 plt.show()
-
